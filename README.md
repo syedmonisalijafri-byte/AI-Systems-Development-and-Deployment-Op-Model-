@@ -1,1 +1,0 @@
-# AI-Systems-Development-and-Deployment-Op-Model-
