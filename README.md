@@ -4,7 +4,7 @@
 This repository contains the working draft: **AI Systems Development and Deployment Op Model (UK Public Sector)** — *Evaluation for Validation and Verification with Testing (E2VT)*.
 
 ## Document
-- [E2VT Evaluation driven framework](docs/E2VT:Evaluation driven framework)
+- [E2VT Evaluation driven framework](docs/E2VT:Evaluation driven framework.io)
 
 ## Review guidance
 Please add inline comments in GitHub or suggest changes via Pull Requests.
