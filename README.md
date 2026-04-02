@@ -1,7 +1,7 @@
 # AI Systems Development and Deployment Operating Model (UK Public Sector)
 
 ## Documents
-- [View Operating Model (GitHub)](docs/e2vt-operating-model.md)
+- [View Operating Model (GitHub)](docs/e2vt-operating-model.html)
 - [View Operating Model (Web)](https://syedmonisalijafri-byte.github.io/AI-Systems-Development-and-Deployment-Op-Model-/)
 
 ## 📝 Notes
