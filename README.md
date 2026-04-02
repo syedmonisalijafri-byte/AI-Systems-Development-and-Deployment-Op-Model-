@@ -1,10 +1,12 @@
-# E2VT Operating Model (UK Public Sector)
+# AI Systems Development and Deployment Operating Model (UK Public Sector)
 
-**Status:** Draft v1.0 (Peer review)
-This repository contains the working draft: **AI Systems Development and Deployment Op Model (UK Public Sector)** — *Evaluation for Validation and Verification with Testing (E2VT)*.
+## 🔗 Open Web Version
+👉 https://syedmonisalijafri-byte.github.io/AI-Systems-Development-and-Deployment-Op-Model-/
 
-## Document
-- [E2VT Evaluation driven framework](docs/E2VT:Evaluation driven framework)
+## 📄 Documents
+- [View Operating Model (Web)](https://syedmonisalijafri-byte.github.io/AI-Systems-Development-and-Deployment-Op-Model-/)
+- [View Markdown Document](docs/e2vt-operating-model.md)
 
-## Review guidance
-Please add inline comments in GitHub or suggest changes via Pull Requests.
+## 📝 Notes
+- The web version is recommended for readability  
+- This repository contains the draft under peer review  
